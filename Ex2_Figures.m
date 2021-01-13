@@ -11,6 +11,8 @@
 %               equilibria in the embedding space.  The smallest robustly 
 %               forward invariant set in X is also computed via exhaustive
 %               simulation.
+%               This script requires the external file Ex2_data.mat,
+%               availible though the GaTech FactsLab GitHub
 
 clc; clear all;
 
