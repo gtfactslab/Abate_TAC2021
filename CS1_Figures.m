@@ -13,6 +13,8 @@
 %               to compute a second forward invariant region. 
 %               We also employ a transformed system to compute forward
 %               ivnariant regions aswell.
+%               This script requires the external file CS1_data.mat,
+%               availible though the GaTech FactsLab GitHub
 
 
 clc; clear all; close all;
